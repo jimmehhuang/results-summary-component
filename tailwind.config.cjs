@@ -5,8 +5,8 @@ module.exports = {
       "./src/**/*.{js,ts,jsx,tsx}"
     ],
     theme: {
-      extend: {},
-      colors: {
+      extend: {
+        colors: {
         'lightred': '#ff5757',
         'orangey': '#ffb01f',
         'teal': '#00bd91',
@@ -16,6 +16,8 @@ module.exports = {
         'violetblue': '#4e21ca',
         'persianblue': '#2421ca'
       }
+    },
+      
     },
     plugins: [],
   }
