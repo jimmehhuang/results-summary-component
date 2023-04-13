@@ -14,10 +14,12 @@ module.exports = {
         'slateblue': '#8063f2',
         'royalblue': '#2e2be9',
         'violetblue': '#4e21ca',
-        'persianblue': '#2421ca'
+        'persianblue': '#2421ca',
+        'darkgrayblue': "#303b5a",
+        'lightlavendar': '#c8c7ff',
+        'paleblue': '#ebf1ff'
       }
-    },
-      
+    },      
     },
     plugins: [],
   }
